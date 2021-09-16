@@ -40,13 +40,13 @@
   "devDependencies": {
     "@oclif/test": "^1.2.4",
     "chai": "^4.2.0",
-    "eslint": "^5.16.0",
+    "eslint": "^7.16.0",
     "eslint-config-oclif": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.1",
-    "mocha": "^7.0.1",
-    "nyc": "^14.1.0",
+    "mocha": "^8.3.0",
+    "nyc": "^15.0.0",
     "prettier": "^1.18.2",
-    "semantic-release": "^16.0.0"
+    "semantic-release": "^17.0.1"
   },
   "files": [
     "/bin",
