@@ -32,7 +32,7 @@
   "homepage": "https://github.com/christroutner/memo-push#readme",
   "dependencies": {
     "@chris.troutner/bch-js": "3.2.0",
-    "@oclif/command": "^1.5.13",
+    "@oclif/command": "^1.8.0",
     "@oclif/config": "^1.14.0",
     "@oclif/plugin-help": "^2.1.6",
     "bch-donation": "^1.1.0"
@@ -40,13 +40,13 @@
   "devDependencies": {
     "@oclif/test": "^1.2.4",
     "chai": "^4.2.0",
-    "eslint": "^5.16.0",
+    "eslint": "^7.0.0",
     "eslint-config-oclif": "^3.1.0",
     "eslint-plugin-prettier": "^3.0.1",
     "mocha": "^7.0.1",
-    "nyc": "^14.1.0",
+    "nyc": "^15.0.0",
     "prettier": "^1.18.2",
-    "semantic-release": "^16.0.0"
+    "semantic-release": "^21.0.2"
   },
   "files": [
     "/bin",
